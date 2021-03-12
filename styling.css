@@ -1,0 +1,312 @@
+
+body{
+	height: 2500px;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+.navbar-inverse{
+	background-color: rgba(0,0,0,0.5);
+	margin-bottom: 0px;
+
+}
+
+.nav li{
+	color:white;
+	font-size: 17px;
+	margin-right: 35px;
+	padding: 10px 0;
+}
+
+.nav li:hover{
+	border-bottom: 1px solid #62efe6;
+	padding-bottom: 9px;
+	cursor: pointer;
+
+}
+
+#page1{
+
+	height:764px;
+	background-image:url(home.jpg);
+	z-index: -100;
+	background-size: cover;
+
+
+}
+
+
+#page2{
+
+	height:600px;
+	background-color: white;
+
+}
+#heading_home{
+	color: white;
+	text-align: center;
+	margin-top: 250px;
+	font-weight: bold;
+	font-size: 60px;
+	font-style: italic;
+
+}
+
+
+.para{
+	
+	margin: auto;
+	margin-top: 100px;
+	width: 900px;
+	font-size: 20px;
+	text-align: center;
+}
+
+#page3{
+	
+	height:764px;
+	background-image:url(pic3.jpg);
+	color: white;
+	
+
+
+
+}
+#heading_page2{
+	color: white;
+	text-align: center;
+	margin-top: 350px;
+	font-weight: bold;
+	font-size: 60px;
+	font-style: italic;
+	position: relative;
+
+}
+
+#page4{
+	background-color: grey;
+
+	height:464px;
+	
+
+
+}
+
+#para4{
+
+	margin: auto;
+	margin-top:150px;
+	width: 900px;
+	font-size: 20px;
+	text-align: center;
+}
+
+#page5{
+	background-color: white;
+	height:1264px;
+	 
+	
+	
+
+}
+.heading_page5{
+	color: black;
+	text-align: center;
+	margin-top: 40px;
+	font-weight: bold;
+	font-size: 60px;
+	font-style: italic;
+	position: relative;
+
+}
+
+.heading_page6{
+	color: black;
+	text-align: center;
+	margin-top: 30px;
+	font-weight: bold;
+	font-size: 60px;
+	font-style: italic;
+	position: relative;
+
+}
+
+.heading_page7{
+	color: black;
+	text-align: center;
+	margin-top: 20px;
+	font-weight: bold;
+	font-size: 60px;
+	font-style: italic;
+	position: relative;
+
+}
+
+
+#service_image{
+margin-right: auto;
+margin-left: auto;
+display: block;
+
+
+
+}
+
+
+#page6{
+	background-color: grey;
+	height:964px;
+	
+	
+	padding-bottom: 100px;
+	
+
+}
+
+
+#page7{
+	background-color: white;
+	height:1264px;
+ 
+	
+	
+
+}
+
+#heading_page8{
+	color: white;
+	text-align: center;
+	margin-top: 150px;
+	font-weight: bold;
+	font-size: 60px;
+	font-style: italic;
+	position: relative;
+}
+
+#page8{
+	
+	background-color: black;
+	color: white;
+	
+	height:1364px;
+	
+	
+	padding-right: 100px;
+	padding-left: 100px;
+
+	
+	
+}
+
+
+#page9{
+	background-image:url(page9.jpg);
+	height:664px;
+	
+	
+	padding: 200px;
+
+}
+
+#heading_page9{
+	color: white;
+	text-align: center;
+	margin-top: 100px;
+	font-weight: bold;
+	font-size: 60px;
+	font-style: italic;
+	
+
+
+}
+
+#page11{
+	background-color: white;
+		height:1264px;
+	
+
+
+}
+#head{
+	font-size: 50px;
+	color: white;
+	background-color: grey;
+	padding:80px;
+}
+
+#page12{
+	
+	height:664px;
+	background-image: url(page11.jpg);
+	margin-left: 0px;
+	color: white;
+
+
+
+}
+.justify_class{
+	margin-left: auto;
+	margin-right: auto;
+}
+#heading_page12{
+	text-align: center;
+	font-size: 40px;
+	font-style: italic;
+}
+#page12_para{
+	text-align: center;
+	font-size: 20px;
+	
+
+}
+.column{
+
+	text-align: center;
+}
+.footer{
+	background-color: rgba(0,0,0,0.5);
+	color: grey;
+	font-size: 15px;
+	padding: 10px 0;
+	margin-top: 200px;
+	margin-bottom: 0;
+}
+#footer{
+	background-color: black;
+	opacity: 80%;
+	height: 100px;
+
+	color: white;
+	font-size: 15px;
+	text-align: center;
+
+}
+#mycarousel{
+	width: 70%;
+	height: 600px;
+	margin: 0 auto;
+
+}
+
+
+.carousel-inner .item img{
+	height: 400px;
+
+	margin: 0 auto;
+
+}
+
+.carousel-caption{
+	position: relative;
+	left: auto;
+	right: auto;
+	height: 100px;
+
+}
+
+.line{
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
